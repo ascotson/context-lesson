@@ -6,5 +6,5 @@ function Animal(name, legs, sound){
 }
 
 /* Make a lot of new animals */
-
+var rat = new Animal("Stinky Potato", 4, "Squeek");
 /* Show flow */
